@@ -1,0 +1,43 @@
+# ─── Python ────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+*.egg-info/
+dist/
+build/
+
+# ─── Jupyter ───────────────────────────────────────────────────────
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# ─── Data Files (download from Kaggle) ────────────────────────────
+*.csv
+*.xlsx
+*.json
+*.parquet
+*.pkl
+*.h5
+
+# ─── OS Files ──────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ─── IDE ───────────────────────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ─── Logs ──────────────────────────────────────────────────────────
+*.log
+logs/
+
+# ─── Environment ───────────────────────────────────────────────────
+.env
+.env.local
