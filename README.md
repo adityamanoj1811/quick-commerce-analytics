@@ -346,7 +346,7 @@ XGBoost        → Accuracy: ~79%  |  AUC: ~0.88  ← BEST
 
 ## 👨‍💻 Author
 
-**Aditya Manoj** — Data Cleaning, Feature Engineering, Statistical Analysis, ML Modelling, Time Series, Business Insights
+**Aditya Manoj**
 
 ---
 
