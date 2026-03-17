@@ -344,17 +344,6 @@ XGBoost        → Accuracy: ~79%  |  AUC: ~0.88  ← BEST
 
 ---
 
-## 📊 Syllabus Coverage
-
-| Unit | Topic | Sections Covered |
-|---|---|---|
-| Unit 1 | Data Analytics overview, lifecycle, descriptive stats, plots | 1, 3, 4, 5, 6, 7 |
-| Unit 2 | Probability, CLT, sampling, hypothesis testing, ANOVA, correlation | 8, 9, 10, 11 |
-| Unit 3 | Regression, classification, clustering | 12, 13, 14, 15 |
-| Unit 4 | Time series, forecasting, optimisation, decision theory | 16, 17 |
-
----
-
 ## 👨‍💻 Author
 
 **Aditya Manoj** — Data Cleaning, Feature Engineering, Statistical Analysis, ML Modelling, Time Series, Business Insights
