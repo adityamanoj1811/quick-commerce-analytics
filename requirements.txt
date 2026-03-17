@@ -1,0 +1,24 @@
+# ─── Quick-Commerce Delivery Analytics ────────────────────────────
+# Python Dependencies
+# Install via: pip install -r Requirements.txt
+# ──────────────────────────────────────────────────────────────────
+
+# Core Data Libraries
+pandas>=1.5.0
+numpy>=1.23.0
+
+# Visualisation
+matplotlib>=3.6.0
+seaborn>=0.12.0
+
+# Statistics & Probability
+scipy>=1.10.0
+statsmodels>=0.14.0
+
+# Machine Learning
+scikit-learn>=1.2.0
+xgboost>=1.7.0
+
+# Jupyter / Colab
+ipykernel>=6.0.0
+notebook>=6.5.0
